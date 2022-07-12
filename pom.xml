@@ -8,7 +8,7 @@
 	
 	<version>0.0.1-SNAPSHOT</version> 
 	
-	<name>nokia-web-application</name>
+	<name>mobileapp-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>nokia-web-app</finalName>
+		<finalName>mobileapp-app</finalName>
 		
 		<plugins>
 			<plugin>
